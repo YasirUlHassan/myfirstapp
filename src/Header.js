@@ -2,7 +2,7 @@ export default function Header() {
     return (
 
         <section className="header">
-            <h1>Header Comp</h1>
+            <h1>Header Component</h1>
         </section>
         
     );
